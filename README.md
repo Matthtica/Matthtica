@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mg Khin Maung Htet.
-- 👀 I’m interested in C++, 3D and 2D, and Modern Android Development.
-- 🌱 I’m currently learning Android Development and advancing C++.
-- 💞️ I’m looking to collaborate on C++ projects and Modern Android Projects.
+- 👀 I’m interested in C++, 3D and 2D programmatic graphics drawing, and Web Development.
+- 🌱 I’m currently learning ReactJS and advancing my knowledge about C++.
+- 💞️ I’m looking to collaborate on C++, ReactJS, Svelte Projects.
 - 📫 Call me, 09797877517
