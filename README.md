@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khin Maung Htet (aka) Karl</h1>
-<h3 align="center">A passionate, mathematically inclined software developer.</h3>
+<h3 align="center">A passionate programmer who love system programming, graphics programming and language design.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthtica" alt="matthtica" /></a> </p>
 
